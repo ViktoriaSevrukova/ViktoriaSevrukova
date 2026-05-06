@@ -11,7 +11,7 @@
 
 - 📫 Как связаться **sevryukova.victorya@yandex.ru**
 
-- 📄 Ссылка на резюме [https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738](https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738)
+- 📄 Ссылка на резюме [Ссылка](https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738)(https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738)
 
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
