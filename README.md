@@ -19,7 +19,9 @@
 
 👯 Хотела бы сотрудничать по вопросам **анализа данных**
 
- 💬 Стек **Анализ данных**:
+ 💬 Стек
+ 
+ **Анализ данных**:
   
 •	Python: pandas, numpy, matplotlib, seaborn, scipy, scikit learn, statsmodels;
 
@@ -29,10 +31,10 @@
 
 **Визуализация и BI**: Yandex DataLens, построение дашбордов.
 
-**Бизнес инструменты**: Excel, 1C, Word, PowerPoint.**
+**Бизнес инструменты**: Excel, 1C, Word, PowerPoint.
 
-- 📫 Как связаться **sevryukova.victorya@yandex.ru**
+ 📫 Как связаться **sevryukova.victorya@yandex.ru**
 
-- 📄 Ссылка на резюме [Ссылка](https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738)
+ 📄 Ссылка на резюме [Ссылка](https://novosibirsk.hh.ru/resume/b4627b81ff1063e6c60039ed1f513352464738)
 
 
