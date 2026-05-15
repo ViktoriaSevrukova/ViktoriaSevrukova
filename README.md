@@ -23,7 +23,7 @@
  
  **Анализ данных**:
   
-•	Python: pandas, numpy, matplotlib, seaborn, scipy, scikit learn, statsmodels;
+•	Python: pandas, numpy, matplotlib, seaborn, scipy, statsmodels;
 
 •	SQL (PostgreSQL);
 
